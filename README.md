@@ -1,7 +1,7 @@
 # TIKTOK TO TELEGRAM
 This is a telegram bot that downloads a tiktok video when a link is sent and sends it back to the telegram chat. This is the source code for @tikontgBot
 
-Watermark will be removed now.
+==Watermark will be removed now.==
 
 # INSTALLATION
 ```pip install -r requirements.txt```
